@@ -1,0 +1,84 @@
+body {
+	font:  14px/1.5 Verdana,Arial,Helvetica,sans-serif;
+}
+ul, dl, dt {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.header {
+	width: 100%;
+	/*position: fixed;*/
+	z-index: 999;
+}
+.engff {
+	font-family: "Comic Sans MS";
+}
+.fs12 {
+	font-size: 12px;
+}
+.br0 {
+	border-radius: 0;
+}
+.cp {
+	cursor: default;
+}
+.m0 {
+	margin: 0;
+}
+.mb10 {
+	margin-bottom: 10px;
+}
+.mb20 {
+	margin-bottom: 20px;
+}
+.p10 {
+	padding: 10px;
+}
+.pt10 {
+	padding-top: 10px;
+}
+.github img {
+	vertical-align: top;
+	border-radius:  5px;
+}
+.content {
+	/*padding: 70px 0 0;*/
+}
+/*.content p {
+	text-indent: 2em;
+}*/
+.bold {
+	font-weight: bold;
+}
+.box-shadow {
+	box-shadow: 0 0 5px #ddd;
+	-webkit-box-shadow: 0 0 5px #ddd;
+	-moz-box-shadow: 0 0 5px #ddd;
+	-ms-box-shadow: 0 0 5px #ddd;
+	-o-box-shadow: 0 0 5px #ddd;
+}
+.main-slide {
+	height: auto;
+	display: block;
+}
+.main-slide img {
+	width: 100%;
+	/* height: 500px !important; */
+}
+.footer {
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	/*color: #9d9d9d;*/
+	/*background-color: #222; */
+}
+.footer .copyrights-info {
+	display:  block;
+	height: 60px;
+	line-height: 60px;
+}
+.panel.custom-panel {
+	border-color: transparent;
+
+}
